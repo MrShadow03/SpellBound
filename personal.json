@@ -1,0 +1,72 @@
+{
+    "A": [
+    ],
+    "B": [
+    ],
+    "C": [
+    ],  
+    "D": [
+        {
+            "correct": "desert",
+            "incorrect": "dessert",
+            "definition": "a barren area of landscape with little precipitation and sparse vegetation",
+            "partOfSpeech": "noun",
+            "syllable": "des.ert"
+        },
+        {
+            "correct": "dessert",
+            "incorrect": "desert",
+            "definition": "a sweet course typically eaten at the end of a meal",
+            "partOfSpeech": "noun",
+            "syllable": "des.sert"
+        }
+    ],
+    "E": [
+        {
+            "correct": "equivalent",
+            "incorrect": "equivalant",
+            "definition": "equal in value, amount, function, meaning, etc.",
+            "partOfSpeech": "adjective",
+            "syllable": "e.quiv.a.lent"
+        }        
+    ],
+    "F": [
+    ],
+    "G": [
+    ],
+    "H": [
+    ],
+    "I": [
+    ],
+    "J": [
+    ],
+    "L": [
+    ],
+    "M": [
+        {
+            "correct": "Mediterranean",
+            "incorrect": "Mediteranian",
+            "definition": "relating to the Mediterranean Sea or the countries bordering it",
+            "partOfSpeech": "adjective",
+            "syllable": "Med.i.ter.ra.ne.an"
+        }        
+    ],
+    "N": [
+    ],
+    "O": [
+    ],
+    "P": [
+    ],
+    "R": [
+    ],
+    "S": [
+    ],
+    "T": [
+    ],
+    "U": [
+    ],
+    "V": [
+    ],
+    "W": [
+    ]
+}

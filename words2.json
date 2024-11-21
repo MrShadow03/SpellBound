@@ -1,0 +1,124 @@
+{
+    "A": [
+        { "correct": "accommodate", "incorrect": "accomodate" },
+        { "correct": "acknowledgment", "incorrect": "acknowlegment" },
+        { "correct": "acquire", "incorrect": "aquire" },
+        { "correct": "aerial", "incorrect": "arial" },
+        { "correct": "amateur", "incorrect": "amatuer" },
+        { "correct": "apparent", "incorrect": "apparant" }
+    ],
+    "B": [
+        { "correct": "balloon", "incorrect": "baloon" },
+        { "correct": "believe", "incorrect": "beleive" },
+        { "correct": "business", "incorrect": "buisness" }
+    ],
+    "C": [
+        { "correct": "calendar", "incorrect": "calender" },
+        { "correct": "caribbean", "incorrect": "carribean" },
+        { "correct": "category", "incorrect": "catagory" },
+        { "correct": "committed", "incorrect": "commited" },
+        { "correct": "consensus", "incorrect": "concensus" },
+        { "correct": "conscience", "incorrect": "concience" }
+    ],
+    "D": [
+        { "correct": "definitely", "incorrect": "definately" },
+        { "correct": "dilemma", "incorrect": "dilemna" },
+        { "correct": "disappear", "incorrect": "dissapear" },
+        { "correct": "disappoint", "incorrect": "dissapoint" }
+    ],
+    "E": [
+        { "correct": "embarrass", "incorrect": "embarass" },
+        { "correct": "equipment", "incorrect": "equiptment" },
+        { "correct": "exaggerate", "incorrect": "exagerate" },
+        { "correct": "existence", "incorrect": "existance" }
+    ],
+    "F": [
+        { "correct": "fascinating", "incorrect": "facinating" },
+        { "correct": "favourite", "incorrect": "favorate" },
+        { "correct": "familiar", "incorrect": "familar" },
+        { "correct": "foreign", "incorrect": "foriegn" }
+    ],
+    "G": [
+        { "correct": "gauge", "incorrect": "guage" },
+        { "correct": "grateful", "incorrect": "greatful" },
+        { "correct": "guarantee", "incorrect": "garantee" }
+    ],
+    "H": [
+        { "correct": "harass", "incorrect": "harrass" },
+        { "correct": "height", "incorrect": "heigth" },
+        { "correct": "humorous", "incorrect": "humourous" }
+    ],
+    "I": [
+        { "correct": "ignorance", "incorrect": "ignorence" },
+        { "correct": "immediately", "incorrect": "immediatly" },
+        { "correct": "independent", "incorrect": "independant" },
+        { "correct": "innocence", "incorrect": "innocense" },
+        { "correct": "indispensable", "incorrect": "indispensible" }
+    ],
+    "J": [
+        { "correct": "jewellery", "incorrect": "jewelery" },
+        { "correct": "judgment", "incorrect": "judgement" }
+    ],
+    "L": [
+        { "correct": "leisure", "incorrect": "liesure" },
+        { "correct": "library", "incorrect": "libary" },
+        { "correct": "liaison", "incorrect": "liason" }
+    ],
+    "M": [
+        { "correct": "maintenance", "incorrect": "maintainance" },
+        { "correct": "medieval", "incorrect": "medievil" },
+        { "correct": "millennium", "incorrect": "millenium" },
+        { "correct": "mischievous", "incorrect": "mischievious" }
+    ],
+    "N": [
+        { "correct": "necessary", "incorrect": "neccessary" },
+        { "correct": "noticeable", "incorrect": "noticable" }
+    ],
+    "O": [
+        { "correct": "occurrence", "incorrect": "occurence" },
+        { "correct": "occasionally", "incorrect": "ocassionally" },
+        { "correct": "opposite", "incorrect": "oposite" }
+    ],
+    "P": [
+        { "correct": "parallel", "incorrect": "paralell" },
+        { "correct": "perseverance", "incorrect": "perserverance" },
+        { "correct": "pharaoh", "incorrect": "pharoah" },
+        { "correct": "possession", "incorrect": "posession" },
+        { "correct": "privilege", "incorrect": "priviledge" }
+    ],
+    "Q": [
+        { "correct": "questionnaire", "incorrect": "questionaire" }
+    ],
+    "R": [
+        { "correct": "receipt", "incorrect": "reciept" },
+        { "correct": "recommend", "incorrect": "reccomend" },
+        { "correct": "referred", "incorrect": "refered" },
+        { "correct": "relevant", "incorrect": "revelant" },
+        { "correct": "restaurant", "incorrect": "resturant" },
+        { "correct": "rhythm", "incorrect": "rythm" }
+    ],
+    "S": [
+        { "correct": "separate", "incorrect": "seperate" },
+        { "correct": "supersede", "incorrect": "supercede" },
+        { "correct": "successful", "incorrect": "succesful" },
+        { "correct": "surely", "incorrect": "suely" },
+        { "correct": "specially", "incorrect": "specally" }
+    ],
+    "T": [
+        { "correct": "tomorrow", "incorrect": "tommorow" },
+        { "correct": "threshold", "incorrect": "threshhold" },
+        { "correct": "their", "incorrect": "thier" },
+        { "correct": "tendency", "incorrect": "tendancy" }
+    ],
+    "U": [
+        { "correct": "until", "incorrect": "untill" }
+    ],
+    "V": [
+        { "correct": "vaccinate", "incorrect": "vacinate" },
+        { "correct": "vacuum", "incorrect": "vaccum" }
+    ],
+    "W": [
+        { "correct": "weird", "incorrect": "wierd" },
+        { "correct": "withdrawal", "incorrect": "withdrawl" }
+    ]
+}

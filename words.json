@@ -1,0 +1,598 @@
+{
+    "A": [
+        { 
+            "correct": "accommodate", 
+            "incorrect": "accomodate",
+            "definition": "provide lodging or sufficient space for",
+            "partOfSpeech": "verb",
+            "syllable": "ac.com.mo.date"
+        },
+        { 
+            "correct": "acknowledgment", 
+            "incorrect": "acknowlegment",
+            "definition": "acceptance of the truth or existence of something",
+            "partOfSpeech": "noun",
+            "syllable": "ac.know.ledg.ment"
+        },
+        { 
+            "correct": "acquire", 
+            "incorrect": "aquire",
+            "definition": "to buy or obtain (an asset or object)",
+            "partOfSpeech": "verb",
+            "syllable": "ac.quire"
+        },
+        { 
+            "correct": "aerial", 
+            "incorrect": "arial",
+            "definition": "of, relating to, or occurring in the air or atmosphere",
+            "partOfSpeech": "adjective",
+            "syllable": "ae.ri.al"
+        },
+        { 
+            "correct": "amateur", 
+            "incorrect": "amatuer",
+            "definition": "a person engaging in a pursuit as a pastime rather than as a profession",
+            "partOfSpeech": "noun",
+            "syllable": "am.a.teur"
+        },
+        { 
+            "correct": "apparent", 
+            "incorrect": "apparant",
+            "definition": "clearly visible or understood; obvious",
+            "partOfSpeech": "adjective",
+            "syllable": "ap.par.ent"
+        }
+    ],
+    "B": [
+        { 
+            "correct": "balloon", 
+            "incorrect": "baloon",
+            "definition": "a flexible bag filled with gas that can rise in the air",
+            "partOfSpeech": "noun",
+            "syllable": "bal.loon"
+        },
+        { 
+            "correct": "believe", 
+            "incorrect": "beleive",
+            "definition": "accept as true or real",
+            "partOfSpeech": "verb",
+            "syllable": "be.lieve"
+        },
+        { 
+            "correct": "business", 
+            "incorrect": "buisness",
+            "definition": "a person's regular occupation, profession, or trade",
+            "partOfSpeech": "noun",
+            "syllable": "busi.ness"
+        }
+    ],
+    "C": [
+        { 
+            "correct": "calendar", 
+            "incorrect": "calender",
+            "definition": "a chart showing the days, weeks, and months of a particular year",
+            "partOfSpeech": "noun",
+            "syllable": "cal.en.dar"
+        },
+        { 
+            "correct": "caribbean", 
+            "incorrect": "carribean",
+            "definition": "of or relating to the region of the Caribbean Sea",
+            "partOfSpeech": "adjective",
+            "syllable": "ca.rib.be.an"
+        },
+        { 
+            "correct": "category", 
+            "incorrect": "catagory",
+            "definition": "a class or division of people or things with shared characteristics",
+            "partOfSpeech": "noun",
+            "syllable": "cat.e.go.ry"
+        },
+        { 
+            "correct": "committed", 
+            "incorrect": "commited",
+            "definition": "dedicated to a cause or activity",
+            "partOfSpeech": "adjective",
+            "syllable": "com.mit.ted"
+        },
+        { 
+            "correct": "consensus", 
+            "incorrect": "concensus",
+            "definition": "general agreement",
+            "partOfSpeech": "noun",
+            "syllable": "con.sen.sus"
+        },
+        { 
+            "correct": "conscience", 
+            "incorrect": "concience",
+            "definition": "an inner feeling or voice acting as a guide to rightness or wrongness",
+            "partOfSpeech": "noun",
+            "syllable": "con.science"
+        }
+    ],  
+    "D": [
+        { 
+            "correct": "definitely", 
+            "incorrect": "definately",
+            "definition": "without doubt; certainly",
+            "partOfSpeech": "adverb",
+            "syllable": "def.i.nite.ly"
+        },
+        { 
+            "correct": "dilemma", 
+            "incorrect": "dilemna",
+            "definition": "a situation requiring a choice between equally undesirable alternatives",
+            "partOfSpeech": "noun",
+            "syllable": "di.lem.ma"
+        },
+        { 
+            "correct": "disappear", 
+            "incorrect": "dissapear",
+            "definition": "cease to be visible",
+            "partOfSpeech": "verb",
+            "syllable": "dis.ap.pear"
+        },
+        { 
+            "correct": "disappoint", 
+            "incorrect": "dissapoint",
+            "definition": "fail to fulfil the hopes or expectations of",
+            "partOfSpeech": "verb",
+            "syllable": "dis.ap.point"
+        },
+        {
+            "correct": "decade",
+            "incorrect": "dacade",
+            "definition": "a period of ten years",
+            "partOfSpeech": "noun",
+            "syllable": "dec.ade"
+        }
+        
+    ],
+    "E": [
+        { 
+            "correct": "embarrass", 
+            "incorrect": "embarass",
+            "definition": "cause (someone) to feel awkward or ashamed",
+            "partOfSpeech": "verb",
+            "syllable": "em.bar.rass"
+        },
+        { 
+            "correct": "equipment", 
+            "incorrect": "equiptment",
+            "definition": "the necessary items for a particular purpose",
+            "partOfSpeech": "noun",
+            "syllable": "e.quip.ment"
+        },
+        { 
+            "correct": "exaggerate", 
+            "incorrect": "exagerate",
+            "definition": "represent something as being larger, better, or worse than it really is",
+            "partOfSpeech": "verb",
+            "syllable": "ex.ag.ger.ate"
+        },
+        { 
+            "correct": "existence", 
+            "incorrect": "existance",
+            "definition": "the fact or state of living or having objective reality",
+            "partOfSpeech": "noun",
+            "syllable": "ex.is.tence"
+        },
+        {
+            "correct": "emphasis",
+            "incorrect": "emphesis",
+            "definition": "special importance, value, or prominence given to something",
+            "partOfSpeech": "noun",
+            "syllable": "em.pha.sis"
+        }
+    ],
+    "F": [
+        { 
+            "correct": "fascinating", 
+            "incorrect": "facinating",
+            "definition": "extremely interesting",
+            "partOfSpeech": "adjective",
+            "syllable": "fas.ci.nat.ing"
+        },
+        { 
+            "correct": "favourite", 
+            "incorrect": "favorate",
+            "definition": "preferred before all others of the same kind",
+            "partOfSpeech": "noun/adjective",
+            "syllable": "fave.our.ite"
+        },
+        { 
+            "correct": "familiar", 
+            "incorrect": "familar",
+            "definition": "well known from long or close association",
+            "partOfSpeech": "adjective",
+            "syllable": "fa.mil.iar"
+        },
+        { 
+            "correct": "foreign", 
+            "incorrect": "foriegn",
+            "definition": "of, from, in, or characteristic of a country or language other than one's own",
+            "partOfSpeech": "adjective",
+            "syllable": "for.eign"
+        }
+    ],
+    "G": [
+        { 
+            "correct": "gauge", 
+            "incorrect": "guage",
+            "definition": "measure the amount, level, or contents of",
+            "partOfSpeech": "verb/noun",
+            "syllable": "gauge"
+        },
+        { 
+            "correct": "grateful", 
+            "incorrect": "greatful",
+            "definition": "feeling or showing an appreciation of kindness",
+            "partOfSpeech": "adjective",
+            "syllable": "grate.ful"
+        },
+        { 
+            "correct": "guarantee", 
+            "incorrect": "garantee",
+            "definition": "a formal promise or assurance",
+            "partOfSpeech": "noun/verb",
+            "syllable": "guar.an.tee"
+        }
+    ],
+    "H": [
+        { 
+            "correct": "harass", 
+            "incorrect": "harrass",
+            "definition": "subject to aggressive pressure or intimidation",
+            "partOfSpeech": "verb",
+            "syllable": "ha.rass"
+        },
+        { 
+            "correct": "height", 
+            "incorrect": "heigth",
+            "definition": "the measurement from base to top",
+            "partOfSpeech": "noun",
+            "syllable": "height"
+        },
+        { 
+            "correct": "humorous", 
+            "incorrect": "humourous",
+            "definition": "causing laughter and amusement",
+            "partOfSpeech": "adjective",
+            "syllable": "hu.mor.ous"
+        }
+    ],
+    "I": [
+        { 
+            "correct": "ignorance", 
+            "incorrect": "ignorence",
+            "definition": "lack of knowledge or information",
+            "partOfSpeech": "noun",
+            "syllable": "ig.no.rance"
+        },
+        { 
+            "correct": "immediately", 
+            "incorrect": "immediatly",
+            "definition": "at once; instantly",
+            "partOfSpeech": "adverb",
+            "syllable": "im.me.di.ate.ly"
+        },
+        { 
+            "correct": "independent", 
+            "incorrect": "independant",
+            "definition": "free from outside control; not subject to another's authority",
+            "partOfSpeech": "adjective",
+            "syllable": "in.de.pen.dent"
+        },
+        { 
+            "correct": "innocence", 
+            "incorrect": "innocense",
+            "definition": "the state of being free from guilt or moral wrong",
+            "partOfSpeech": "noun",
+            "syllable": "in.no.cence"
+        },
+        { 
+            "correct": "indispensable", 
+            "incorrect": "indispensible",
+            "definition": "absolutely necessary",
+            "partOfSpeech": "adjective",
+            "syllable": "in.dis.pens.a.ble"
+        }
+    ],
+    "J": [
+        { 
+            "correct": "jewellery", 
+            "incorrect": "jewelery",
+            "definition": "personal ornaments, such as necklaces, rings, or bracelets",
+            "partOfSpeech": "noun",
+            "syllable": "jew.el.lery"
+        },
+        { 
+            "correct": "judgment", 
+            "incorrect": "judgement",
+            "definition": "the ability to make considered decisions",
+            "partOfSpeech": "noun",
+            "syllable": "judg.ment"
+        }
+    ],
+    "L": [
+        { 
+            "correct": "leisure", 
+            "incorrect": "liesure",
+            "definition": "free time for relaxation",
+            "partOfSpeech": "noun",
+            "syllable": "lei.sure"
+        },
+        { 
+            "correct": "library", 
+            "incorrect": "libary",
+            "definition": "a place where books, magazines, and other materials are available for borrowing",
+            "partOfSpeech": "noun",
+            "syllable": "li.brary"
+        },
+        { 
+            "correct": "liaison", 
+            "incorrect": "liason",
+            "definition": "communication or cooperation that facilitates a close working relationship",
+            "partOfSpeech": "noun",
+            "syllable": "li.ai.son"
+        }
+    ],
+    "M": [
+        { 
+            "correct": "maintenance", 
+            "incorrect": "maintainance",
+            "definition": "the process of preserving a condition or situation",
+            "partOfSpeech": "noun",
+            "syllable": "main.te.nance"
+        },
+        { 
+            "correct": "medieval", 
+            "incorrect": "medievil",
+            "definition": "relating to the Middle Ages",
+            "partOfSpeech": "adjective",
+            "syllable": "me.di.e.val"
+        },
+        { 
+            "correct": "millennium", 
+            "incorrect": "millenium",
+            "definition": "a period of a thousand years",
+            "partOfSpeech": "noun",
+            "syllable": "mil.len.ni.um"
+        },
+        { 
+            "correct": "mischievous", 
+            "incorrect": "mischievious",
+            "definition": "causing or showing a fondness for causing trouble",
+            "partOfSpeech": "adjective",
+            "syllable": "mis.chie.vous"
+        }
+    ],
+    "N": [
+        { 
+            "correct": "necessary", 
+            "incorrect": "neccessary",
+            "definition": "needed to be done, achieved, or present",
+            "partOfSpeech": "adjective",
+            "syllable": "nec.es.sa.ry"
+        },
+        { 
+            "correct": "noticeable", 
+            "incorrect": "noticable",
+            "definition": "easily seen or noticed",
+            "partOfSpeech": "adjective",
+            "syllable": "no.tice.a.ble"
+        }
+    ],
+    "O": [
+        { 
+            "correct": "occurrence", 
+            "incorrect": "occurence",
+            "definition": "an incident or event",
+            "partOfSpeech": "noun",
+            "syllable": "oc.cur.rence"
+        },
+        { 
+            "correct": "occasionally", 
+            "incorrect": "ocassionally",
+            "definition": "at infrequent or irregular intervals",
+            "partOfSpeech": "adverb",
+            "syllable": "oc.ca.sion.al.ly"
+        },
+        { 
+            "correct": "opposite", 
+            "incorrect": "oposite",
+            "definition": "completely different; opposed",
+            "partOfSpeech": "adjective",
+            "syllable": "op.po.site"
+        }
+    ],
+    "P": [
+        { 
+            "correct": "parallel", 
+            "incorrect": "paralell",
+            "definition": "extending in the same direction and never converging",
+            "partOfSpeech": "adjective",
+            "syllable": "par.al.lel"
+        },
+        { 
+            "correct": "perseverance", 
+            "incorrect": "perserverance",
+            "definition": "persistence in doing something despite difficulty or delay",
+            "partOfSpeech": "noun",
+            "syllable": "per.se.ver.ance"
+        },
+        { 
+            "correct": "pharaoh", 
+            "incorrect": "pharoah",
+            "definition": "a ruler in ancient Egypt",
+            "partOfSpeech": "noun",
+            "syllable": "pha.raoh"
+        },
+        { 
+            "correct": "possession", 
+            "incorrect": "posession",
+            "definition": "the state of having, owning, or controlling something",
+            "partOfSpeech": "noun",
+            "syllable": "pos.ses.sion"
+        },
+        { 
+            "correct": "privilege", 
+            "incorrect": "priviledge",
+            "definition": "a special right, advantage, or immunity",
+            "partOfSpeech": "noun",
+            "syllable": "priv.i.lege"
+        }
+    ],
+    "R": [
+        { 
+            "correct": "receipt", 
+            "incorrect": "reciept",
+            "definition": "a written acknowledgment of having received something",
+            "partOfSpeech": "noun",
+            "syllable": "re.ceipt"
+        },
+        { 
+            "correct": "recommend", 
+            "incorrect": "reccomend",
+            "definition": "to suggest that someone or something would be good or suitable",
+            "partOfSpeech": "verb",
+            "syllable": "rec.om.mend"
+        },
+        { 
+            "correct": "referred", 
+            "incorrect": "refered",
+            "definition": "directed someone to a different place or person for information",
+            "partOfSpeech": "verb",
+            "syllable": "re.ferred"
+        },
+        { 
+            "correct": "relevant", 
+            "incorrect": "revelant",
+            "definition": "closely connected or appropriate to the matter at hand",
+            "partOfSpeech": "adjective",
+            "syllable": "rel.e.vant"
+        },
+        { 
+            "correct": "restaurant", 
+            "incorrect": "resturant",
+            "definition": "a place where meals are prepared and served to customers",
+            "partOfSpeech": "noun",
+            "syllable": "res.tau.rant"
+        },
+        { 
+            "correct": "rhythm", 
+            "incorrect": "rythm",
+            "definition": "a strong, regular, repeated pattern of movement or sound",
+            "partOfSpeech": "noun",
+            "syllable": "rhythm"
+        }
+    ],
+    "S": [
+        { 
+            "correct": "separate", 
+            "incorrect": "seperate",
+            "definition": "to set or keep apart",
+            "partOfSpeech": "verb/adjective",
+            "syllable": "sep.a.rate"
+        },
+        { 
+            "correct": "supersede", 
+            "incorrect": "supercede",
+            "definition": "to take the place of (a person or thing previously in authority or use)",
+            "partOfSpeech": "verb",
+            "syllable": "su.per.sede"
+        },
+        { 
+            "correct": "successful", 
+            "incorrect": "succesful",
+            "definition": "accomplishing an aim or purpose",
+            "partOfSpeech": "adjective",
+            "syllable": "suc.cess.ful"
+        },
+        { 
+            "correct": "surely", 
+            "incorrect": "suely",
+            "definition": "used to express surprise that something has happened or is the case",
+            "partOfSpeech": "adverb",
+            "syllable": "sure.ly"
+        },
+        { 
+            "correct": "specially", 
+            "incorrect": "specally",
+            "definition": "for a particular purpose",
+            "partOfSpeech": "adverb",
+            "syllable": "spe.cial.ly"
+        }
+    ],
+    "T": [
+        { 
+            "correct": "tomorrow", 
+            "incorrect": "tommorow",
+            "definition": "the day after today",
+            "partOfSpeech": "noun/adverb",
+            "syllable": "to.mor.row"
+        },
+        { 
+            "correct": "threshold", 
+            "incorrect": "threshhold",
+            "definition": "a point of entry or beginning",
+            "partOfSpeech": "noun",
+            "syllable": "thresh.old"
+        },
+        { 
+            "correct": "their", 
+            "incorrect": "thier",
+            "definition": "belonging to or associated with the people or things previously mentioned",
+            "partOfSpeech": "possessive adjective",
+            "syllable": "their"
+        },
+        { 
+            "correct": "tendency", 
+            "incorrect": "tendancy",
+            "definition": "an inclination toward a particular characteristic or type of behavior",
+            "partOfSpeech": "noun",
+            "syllable": "ten.den.cy"
+        }
+    ],
+    "U": [
+        { 
+            "correct": "until", 
+            "incorrect": "untill",
+            "definition": "up to the point in time or event mentioned",
+            "partOfSpeech": "preposition/conjunction",
+            "syllable": "un.til"
+        }
+    ],
+    "V": [
+        { 
+            "correct": "vaccinate", 
+            "incorrect": "vacinate",
+            "definition": "to administer a vaccine to produce immunity against a disease",
+            "partOfSpeech": "verb",
+            "syllable": "vac.ci.nate"
+        },
+        { 
+            "correct": "vacuum", 
+            "incorrect": "vaccum",
+            "definition": "a space devoid of matter, or a device that uses suction",
+            "partOfSpeech": "noun",
+            "syllable": "vac.u.um"
+        }
+    ],
+    "W": [
+        { 
+            "correct": "weird", 
+            "incorrect": "wierd",
+            "definition": "suggesting something supernatural; strange or unusual",
+            "partOfSpeech": "adjective",
+            "syllable": "weird"
+        },
+        { 
+            "correct": "withdrawal", 
+            "incorrect": "withdrawl",
+            "definition": "the action of withdrawing something",
+            "partOfSpeech": "noun",
+            "syllable": "with.draw.al"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/tailwind-output.css">
+    <link rel="stylesheet" href="./assets/css/style.min.css">
+    <link rel="shortcut icon" href="./assets/img/logo.png" type="image/x-icon">
+    <title>SpellBound</title>
+</head>
+<body>
+    <!-- <div id="app">
+        <h1>SpellBound</h1>
+        <div class="word-container">
+            <p id="incorrect-word" class="word">accomodate</p>
+            <input type="text" id="user-input" class="input" placeholder="Type the correct spelling" autocomplete="off">
+            <button onclick="checkAnswer()" class="button">Check</button>
+            <p id="feedback" class="feedback"></p>
+            <button onclick="nextWord()" class="button">Next</button>
+        </div>
+    </div> -->
+    <div class="header">
+        <h1 class="app-name text-center barlow-condensed py-4 text-xl font-semibold text-gray-700">
+            Spell<span class="font-normal">Bound</span>
+        </h1>
+    </div>
+
+    <div class="">
+        <div class="quiz-container text-center">
+            <div class="message inter mb-10 text-gray-500">
+                Spell the word correctly!
+            </div>
+
+            <div class="incorrect-word-container">
+                <a target="_blank" href="#" id="incorrect-word" class="block word capitalize text-xl playfair-display font-bold text-[#ff5c7a]">accomodate</a>
+                <p id="part-of-speech" class="mb-2 tracking-widest text-gray-400 playfair-display italic text-sm">noun</p>
+                <p id="definition" class="definition inter text-base text-gray-700"></p>
+            </div>
+
+            <input type="text" id="user-input" class="input text-focus playfair-display text-center py-10 w-full capitalize font-bold text-gray-800" placeholder="type here" autocomplete="off">
+
+            <div class="feedback-container text-center mb-10">
+                <div class="feedback--positive flex flex-col items-center justify-center">
+                    <svg id="correct-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 18 18" class="icon icon-success hidden">
+                        <g id="Group_4" data-name="Group 4" transform="translate(-896 -662)">
+                          <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(896 662)" fill="none" stroke="#00a721" stroke-width="1">
+                            <circle cx="9" cy="9" r="9" stroke="none"/>
+                            <circle cx="9" cy="9" r="8.5" fill="none"/>
+                          </g>
+                          <g id="Group_6" data-name="Group 6">
+                            <line id="Line_3" data-name="Line 3" x1="5.156" y2="4.797" transform="translate(904.5 668.602)" fill="none" stroke="#00a721" stroke-width="1"/>
+                            <line id="Line_4" data-name="Line 4" x2="3" y2="3" transform="translate(901.5 671)" fill="none" stroke="#00a721" stroke-width="1"/>
+                          </g>
+                        </g>
+                      </svg>
+                      <svg id="incorrect-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 18 18" class="icon icon-danger hidden">
+                        <g id="Group_4" data-name="Group 4" transform="translate(-896 -662)">
+                        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(896 662)" fill="none" stroke="#ff2c2c" stroke-width="1">
+                            <circle cx="9" cy="9" r="9" stroke="none"/>
+                            <circle cx="9" cy="9" r="8.5" fill="none"/>
+                        </g>
+                        <line id="Line_2" data-name="Line 2" x2="7" y2="7" transform="translate(902 668)" fill="none" stroke="#ff2c2c" stroke-width="1"/>
+                        <line id="Line_3" data-name="Line 3" x2="6.75" y2="6.75" transform="translate(908.656 667.906) rotate(90)" fill="none" stroke="#ff2c2c" stroke-width="1"/>
+                        </g>
+                    </svg>
+                      <p id="feedback" class="feedback inter pt-2">
+                      </p>
+                </div>
+
+                  
+                <p id="syllable" class="syllable playfair-display py-5 text-lg font-bold tracking-wider hidden">Beg.in.ning</p>
+            </div>
+
+            <div class="button-container">
+                <div class="button-primary">
+                    <button onclick="goToNextStep()" id="action-button" class="py-1 px-2 border border-gray-500 uppercase inter rounded-md text-gray-500 hover:bg-gray-900 hover:text-gray-100 transition duration-100 ease-out hover:ease-in text-sm">Enter</button>
+                    <span class="button-label inter text-sm text-gray-500 ms-2">Check / Next</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer text-center w-full absolute bottom-0 text-sm inter text-gray-400 py-4">
+        <span class="copyright-text text-center">
+            © Galib Jaman 2024. All Rights Reserved
+        </span>
+    </div>
+    
+    <script src="./script.js"></script>
+
+    <script>
+        
+    </script>
+</body>
+</html>
