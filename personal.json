@@ -56,6 +56,27 @@
     "O": [
     ],
     "P": [
+        {
+            "correct": "parallel",
+            "incorrect": "paralell",
+            "definition": "occurring or existing at the same time or in a similar way; corresponding",
+            "partOfSpeech": "adjective",
+            "syllable": "par.al.lel"
+        },
+        {
+            "correct": "parliament",
+            "incorrect": "parliment",
+            "definition": "the highest legislature, consisting of the sovereign, the House of Lords, and the House of Commons",
+            "partOfSpeech": "noun",
+            "syllable": "par.lia.ment"
+        },
+        {
+            "correct": "permanent",
+            "incorrect": "permenant",
+            "definition": "lasting or intended to last or remain unchanged indefinitely",
+            "partOfSpeech": "adjective",
+            "syllable": "per.ma.nent"
+        }
     ],
     "R": [
     ],
